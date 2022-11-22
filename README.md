@@ -11,6 +11,7 @@ Para trabajar con los datos, previsamente se tuvo que modificar el archivo *feli
 
 ![Popup de felinos](https://github.com/margetmartinez/Tarea03-Felinos_en_CostaRica/blob/main/Popup%20Felinos%201.png)  
 **Imagen 2.** Popup capa felinos
+
 ![Popup felinos con todos los datos](https://github.com/margetmartinez/Tarea03-Felinos_en_CostaRica/blob/main/Popup%20Felinos%202.png)   
 **Imagen 3.** Popup capa felinos con todos los datos.
 
